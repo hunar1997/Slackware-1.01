@@ -1,0 +1,2 @@
+Don't use A2, use A2S instead (the image i put in the parent directory contains A2S
+i initially used A2 and the kernel was panicing :/ 

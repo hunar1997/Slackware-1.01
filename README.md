@@ -8,11 +8,8 @@ What i did:
 * Shared the folder containing (a2-a13) to the WindowsXP and transfering files    
     
 And followed this video exactly https://youtu.be/Z8VVNiBwZI0    
-but at the end my kernel panics and doesn't know how to load root (whatever that is suppose to mean)    
-if your's worked i'm very happy    
 
-I wasted my time, don't waste yours  
-I REEEEALY want it to work, if you know how to solve my problem please tell me (submit it as an issue)     
+I wasted my time on those steps so don't waste yours :)  
     
 ONE THING I CHANGED:    
 a10 folder was 2MB and floppy is only 1.4MB so i removed one package which was marked as optional    
