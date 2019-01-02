@@ -1,0 +1,3 @@
+diff20a:  The "diff" command. Makes source code patches.           [recommended]
+gsfonts2: More fonts for the Postscript interpreter.                  [optional]
+smail:    Arranges for the delivery of UUCP and SMTP (internet) mail. [optional]

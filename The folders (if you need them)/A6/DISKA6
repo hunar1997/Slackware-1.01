@@ -1,0 +1,13 @@
+emacsbin: Binaries for the GNU Emacs Editor/environment.              [optional]
+emacsbin: This X aware version of Emacs was compiled using the X
+emacsbin: shared library libX11.so.3.0.1. If you don't install X windows,
+emacsbin: this library will not be installed, and Emacs will not work.
+emacsbin: If you install the package "xbase13.tgz" from disk X1, you'll
+emacsbin: get the needed library. This can be done with the "menu" command. 
+emacsbin: After you do this, you can delete everything it adds except the
+emacsbin: /lib/libX11.so.3.0.1 and /lib/libX11.so.3 files. You'll find the
+emacsbin: full list of what it installed in /install/installed/xbase13.
+emacssup: Support files for Emacs.                                    [optional]
+nn6418:   The 'nn' news reader.                                       [optional]
+nn6418m:  On-line man pages for the 'nn' news reader.                 [optional]
+comms:    Serial file-transfer and communication packages.         [recommended]

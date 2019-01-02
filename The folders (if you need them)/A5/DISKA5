@@ -1,0 +1,5 @@
+man:      On-line manual pages (all .z format: uses ~600K total)   [recommended]
+tcpip:    TCP/IP networking programs and support files.               [optional]
+cnews:    Controls the spooling and transmission of Usenet news.      [optional]
+keytbls:  Load and save keyboard mappings. Needed if you are not      [optional]
+keytbls:  using the US keyboard map.

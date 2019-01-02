@@ -1,0 +1,17 @@
+mt:       Tape-drive related utilities.                               [optional]
+zoneinfo: Provides timezone configuration information.             [recommended]
+lpr:      Print spooling system.                                   [recommended]
+e2fsbn:   Utilities for the second extended file system.              [required]
+e2fssrc:  Source code for the second extended file sys utilities.     [optional]
+make:     Automates compiling of programs with Makefiles.          [recommended]
+vgalib:   Library for [S]VGA graphics under Linux without X11.     [recommended]
+usrbin4:  Even more utilities that belong in /usr/bin.                [required]
+shlibs:   Shared library images.                                      [required]
+ps:       Utilities for displaying system information.                [required]
+getty:    /etc/getty and /etc/uugetty and man-pages.                  [required]
+getty:    These control the process of logging into your system.
+bin:      Utilities that belong in /usr/bin.                          [required]
+syslogd:  Logs and/or redirects system error messages.                [required]
+syslogd:  Syslogd is automatically started when your system boots.
+syslogd:  If you want to redirect your console messages to a file
+syslogd:  or a specific tty, you can use the syslogk utility.

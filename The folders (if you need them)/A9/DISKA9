@@ -1,0 +1,5 @@
+ghostscr: Postscript utilities: preview & print on PS/non-PS devices. [optional]
+gsfonts1: Fonts for the Postscript interpreter.                       [optional]
+trn25:    A threaded news reader.                                     [optional]
+f2c:      A Fortran-77 to C translator.                               [optional]
+ncurses:  A new curses with color, special char support, and panels.  [optional]

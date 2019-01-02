@@ -1,0 +1,15 @@
+groff:    Text formatting utilities.                                  [optional]
+groff:    the groff package is used to "compile" man pages stored              
+groff:    in groff/nroff format. These type of man pages would be              
+groff:    found in /usr/man/man?. All the man pages in this system             
+groff:    have been preprocessed and then GNU zipped and placed in             
+groff:    the /usr/man/cat? directories. groff is *not* needed to              
+groff:    use any of these included man pages.                                 
+perl:     Larry Wall's interpreted systems language.                  [optional]
+binutils: C compiler utilities (ar, as86, gprof, strip...)         [recommended]
+clisp:    A Common Lisp interpreter.                                  [optional]
+deliver:  A small and simple program that delivers e-mail to local    [optional]
+deliver:  users. If your machine is going to be sending or receiving
+deliver:  through a network such as UUCP or the Internet, you will
+deliver:  want to use the more full featured "sendmail" program
+deliver:  instead of this package.

@@ -1,0 +1,9 @@
+english:  The ispell interactive spell checker.                       [optional]
+elfabi:   Libraries and convertion libs to run ELF binaries.          [optional]
+mailx:    The mailx mailer.                                           [optional]
+quota:    A quota system for disk hungry users.                       [optional]
+sound:    Sound drivers (require recompiling kernel for support)      [optional]
+tcltkdis: TCL toolkit. (includes, libs, and sample code and binaries) [optional]
+winapi02: Experimental winapi compatibility include files and code.   [optional]
+objc245:  GNU compiler for the Objective-C language. (v. 2.4.5)       [optional]
+objc256:  Compiled with 486 optimizations, but works fine on 386.

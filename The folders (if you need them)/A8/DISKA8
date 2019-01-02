@@ -1,0 +1,18 @@
+bc:       Interpreted mathematical language; glorified calculator.    [optional]
+cpio22a:  The "cpio" backup and archiving utility.                    [optional]
+elm2421:  Menu-driven user mail program.                           [recommended]
+man2:     On-line documentation for Linux system calls.               [optional]
+tin11p8:  The 'tin' news reader.                                      [optional]
+lx99p12:  Source code and include files for the Linux kernel.      [recommended]
+lx99p12:  (Kernel version .99 patch level 12 alpha)
+lx99p12:  The include files in this package are needed to compile
+lx99p12:  C programs, so install this if you plan to use C even if
+lx99p12:  you don't plan to recompile the kernel.
+lxpatch:  A collection of kernel patches. (from SLS)                  [optional]
+lxpatch:
+lxpatch:  These patches were intended for use with the
+lxpatch:  .99pl11 kernel, and may or may not work with the
+lxpatch:  kernel included with the Slackware release. It
+lxpatch:  won't hurt anything to install the package though,
+lxpatch:  if you want to take a look at them. They will be
+lxpatch:  found in /usr/src/patches. 

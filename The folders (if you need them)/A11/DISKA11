@@ -1,0 +1,5 @@
+ksh:      A public domain version of the Korn Shell (with man-pages). [optional]
+gcc245:   The GNU C compiler and support files (v. 2.4.5)          [recommended]
+gcc245:   Compiled with 486 optimizations, but works fine with 386.
+gxx245:   The GNU C++ compiler and support files (v. 2.4.5)        [recommended]
+gxx245:   Compiled with 486 optimizations, but works fine with 386.

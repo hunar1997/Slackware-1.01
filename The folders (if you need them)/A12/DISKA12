@@ -1,0 +1,11 @@
+gdb:      The GNU C debugger for debugging C programs.                [optional]
+lib441:   Development libraries for the C compiler.                [recommended]
+lib441:   These libraries are needed to compile C code.    
+p2c:      A Pascal to C translator.                                   [optional]
+smaltalk: Interpreter for the object-oriented language, Smalltalk.    [optional]
+bugfixes: Adds a few needed files.                                    [required]
+gp9600:   Changes the default modem speed from 2400 baud to 9600 baud [optional]
+inc441:   Standard include files needed to compile C programs.     [recommended]
+gonzo:    Sample users "gonzo", "snake", and "satan".                 [optional]
+gonzo:    If you install these, you will have to run the script
+gonzo:    /etc/sampleuseradd to set the file ownerships correctly.

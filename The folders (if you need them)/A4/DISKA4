@@ -1,0 +1,29 @@
+dos049:   Version 0.49 of the experimental Linux MS-DOS emulator.     [optional]
+dos049:   Includes C source and instructions. (compile with gcc) 
+faq:      Answers to frequently asked questions about Linux.       [recommended]
+faq:      This file may be accessed from the "menu" program.
+joe:      An easy to use text-editor, similar to Wordstar(tm)         [optional]
+national: Change the font and keyboard on the virtual consoles.       [optional]
+rcs56a:   GNU revision control system.                                [optional]
+sc:       The 'sc' spreadsheet.                                       [optional]
+tcsh604:  Extended C shell (tcsh) version 6.04 and man-pages.         [optional]
+term107s: SOURCE code for the TERM daemon which allows multiple       [optional]
+term107s: sessions over a modem line to another unix machine also 
+term107s: running term. This source code is not needed to run term 
+term107s: on your Linux machine, but you may have to upload this to 
+term107s: your intended term host machine to compile. The default 
+term107s: makefile currently supports NeXT, SunOS, and Linux.
+term107x: The executable files and man pages for term 1.07, which     [optional]
+term107x: allows multiple shells and pseudo-TCP/IP over modem lines.
+uucp104:  Unix to Unix copy: mail and news over modem lines.          [optional]
+sysvinit: Version 2.4 of the System V compatable INIT programs.       [required]
+gettys:   SOURCE code for getty and uugetty version 2.07b.            [optional]
+select15: This adds two programs to /usr/bin: selection and        [recommended]
+select15: test-mouse. Start selection as a background process 
+select15: (selection &) and the mouse may be used to cut and
+select15: paste text from the screen. This version won't cause
+select15: problems when you start X, either. It doesn't for my 
+select15: Logitech serial mouse, anyway. 
+select15: Source for the package can be found in /usr/src/selection-1.5.
+select15: Instructions may be retrieved with 'man selection'.
+select15: It is no longer necessary to patch the kernel to use this utility.
